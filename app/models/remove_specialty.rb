@@ -1,0 +1,2 @@
+class RemoveSpecialty < ApplicationRecord
+end
